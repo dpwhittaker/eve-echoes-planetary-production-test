@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/eve-echoes-planetary-production/static/js/main.e8f3696a.chunk.js",
-    "main.js.map": "/eve-echoes-planetary-production/static/js/main.e8f3696a.chunk.js.map",
-    "runtime-main.js": "/eve-echoes-planetary-production/static/js/runtime-main.675e2ad0.js",
-    "runtime-main.js.map": "/eve-echoes-planetary-production/static/js/runtime-main.675e2ad0.js.map",
-    "static/js/2.ed8c9036.chunk.js": "/eve-echoes-planetary-production/static/js/2.ed8c9036.chunk.js",
-    "static/js/2.ed8c9036.chunk.js.map": "/eve-echoes-planetary-production/static/js/2.ed8c9036.chunk.js.map",
-    "index.html": "/eve-echoes-planetary-production/index.html",
-    "precache-manifest.c1d81c7936bbf71e687b708d7143318c.js": "/eve-echoes-planetary-production/precache-manifest.c1d81c7936bbf71e687b708d7143318c.js",
-    "service-worker.js": "/eve-echoes-planetary-production/service-worker.js",
-    "static/js/2.ed8c9036.chunk.js.LICENSE.txt": "/eve-echoes-planetary-production/static/js/2.ed8c9036.chunk.js.LICENSE.txt",
-    "static/js/query.b4e55085.worker.js": "/eve-echoes-planetary-production/static/js/query.b4e55085.worker.js",
-    "static/js/query.b4e55085.worker.js.map": "/eve-echoes-planetary-production/static/js/query.b4e55085.worker.js.map"
+    "main.js": "./static/js/main.d391d4bd.chunk.js",
+    "main.js.map": "./static/js/main.d391d4bd.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.aaeb35cb.js",
+    "runtime-main.js.map": "./static/js/runtime-main.aaeb35cb.js.map",
+    "static/js/2.ed8c9036.chunk.js": "./static/js/2.ed8c9036.chunk.js",
+    "static/js/2.ed8c9036.chunk.js.map": "./static/js/2.ed8c9036.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.ac8c32c9d6f1dd33903a24ade05c345c.js": "./precache-manifest.ac8c32c9d6f1dd33903a24ade05c345c.js",
+    "service-worker.js": "./service-worker.js",
+    "static/js/2.ed8c9036.chunk.js.LICENSE.txt": "./static/js/2.ed8c9036.chunk.js.LICENSE.txt",
+    "static/js/query.0283fadb.worker.js": "./static/js/query.0283fadb.worker.js",
+    "static/js/query.0283fadb.worker.js.map": "./static/js/query.0283fadb.worker.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.675e2ad0.js",
+    "static/js/runtime-main.aaeb35cb.js",
     "static/js/2.ed8c9036.chunk.js",
-    "static/js/main.e8f3696a.chunk.js"
+    "static/js/main.d391d4bd.chunk.js"
   ]
 }
